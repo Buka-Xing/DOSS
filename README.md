@@ -9,8 +9,11 @@ This is the repository of paper [Full-Reference Image Quality Assessment: Addres
 -----------------------------
 ## Requirements:
 numpy==1.18.5
+
 Pillow==8.2.0
+
 torch==1.10.1
+
 torchvision==0.14.1
 
 ------------------------------
