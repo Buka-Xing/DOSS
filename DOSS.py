@@ -166,6 +166,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--ref', type=str, default='images/26-0.png')
     parser.add_argument('--dist', type=str, default='images/26-4.png')
+    parser.add_argument('--proj', type=str, default='./Projection_kernel.pth')
     args = parser.parse_args()
 
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -181,7 +182,7 @@ if __name__ == '__main__':
 
     loss = DOSS()
     state_dict = loss.state_dict()  # 进行参数的读取.
-    loss.load_state_dict(torch.load('./Projection_kernel.pth', map_location='cuda:0'))
+    loss.load_state_dict(torch.load(args.proj, map_location='cuda:0'))
     c = loss(ref_stage,dist_stage)
     # c = 7.334
     print(c.item())
