@@ -20,6 +20,7 @@ torchvision==0.14.1
 
 ## Useage:
 >python DOSS.py --ref images/26-0.png --dist images/26-4.png
+
 Note 'utils.py' contains supporting function for DeepWSD, make sure they are in same folder. 
 ------------------------------
 
