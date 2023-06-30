@@ -22,7 +22,7 @@ torchvision==0.14.1
 
 ## Useage:
 
->python DOSS.py --ref images/26-0.png --dist images/26-4.png
+>python DOSS.py --ref images/26-0.png --dist images/26-4.png --proj ./Projection_kernel.pth
 ------------------------------
 
 ## Citations:
