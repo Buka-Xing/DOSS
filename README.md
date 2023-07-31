@@ -29,9 +29,3 @@ torchvision==0.14.1
 
 ## Citations:
 X. Liao, X. Wei, M. Zhou and S. Kwong, "Full-Reference Image Quality Assessment: Addressing Content Misalignment Issue by Comparing Order Statistics of Deep Features," in IEEE Transactions on Broadcasting, doi: 10.1109/TBC.2023.3294835.
-  
-  number={},
-  
-  pages={1-11},
-  
-  doi={10.1109/TBC.2023.3294835}}
