@@ -1,6 +1,6 @@
 # DOSS: Addressing Content Misalignment Issue by Comparing Order Statistics of Deep Features
 ----------------------------
-This is the repository of paper [Full-Reference Image Quality Assessment: Addressing Content Misalignment Issue by Comparing Order Statistics of Deep Features]([https:](https://ieeexplore.ieee.org/document/10197259)). Related Quality Assessment results are in `results' folder.
+This is the repository of paper [Full-Reference Image Quality Assessment: Addressing Content Misalignment Issue by Comparing Order Statistics of Deep Features](https://ieeexplore.ieee.org/document/10197259). Related Quality Assessment results are in `results' folder.
 
 -----------------------------
 ## Updating log:
