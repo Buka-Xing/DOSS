@@ -29,11 +29,19 @@ torchvision==0.14.1
 
 ## Citations:
 @ARTICLE{10197259,
+
   author={Liao, Xingran and Wei, Xuekai and Zhou, Mingliang and Kwong, Sam},
+  
   journal={IEEE Transactions on Broadcasting}, 
+  
   title={Full-Reference Image Quality Assessment: Addressing Content Misalignment Issue by Comparing Order Statistics of Deep Features}, 
+  
   year={2023},
+  
   volume={},
+  
   number={},
+  
   pages={1-11},
+  
   doi={10.1109/TBC.2023.3294835}}
