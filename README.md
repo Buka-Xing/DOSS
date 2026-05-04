@@ -4,6 +4,8 @@ This is the repository of paper [Full-Reference Image Quality Assessment: Addres
 
 -----------------------------
 ## Updating log:
+2026/5/4: Updating the link for projection kernels.
+
 2023/6/30: Uploading the DOSS and supporting projection kernels. 
 
 [Download Projection kernels](https://drive.google.com/file/d/1IRooOzASnRG3c2wFj7CCb7P4Ijv8kE4m/view?usp=drive_link)
